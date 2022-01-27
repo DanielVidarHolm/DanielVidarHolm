@@ -1,7 +1,19 @@
-- 👋 Hi, I’m Daniel
-- 👀 I’m interested in coding Games
-- 🌱 I’m currently learning pygame from python
+### Hi
+## My name is Daniel
 
+**My Interests are**
+- Learning new languages
+- Coding 
+- Spending time with my family             
+- My two dogs
+- Learning, learning and learning
+
+**Im Currently**
+---
+- Studying at Harward university.
+- Learning to use python's Pygame library
+- Peeking at Machine learning programs
+- Looking for a job
 
 <!---
 dannivh3/dannivh3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
