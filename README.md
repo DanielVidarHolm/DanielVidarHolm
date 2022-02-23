@@ -10,7 +10,7 @@
 
 **Completed Courses**
 ---
-- Harward's CS50's Introduction to Computer Science
+- Harward's CS50's [Introduction to Computer Science](https://cs50.harvard.edu/certificates/b1347b96-c0b8-4fdd-872c-acac49389bba)
 - Free Code Camp's [Scientific Computing with Python](https://freecodecamp.org/certification/dannivh3/scientific-computing-with-python-v7)
 
 **Im Currently**
